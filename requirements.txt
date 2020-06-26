@@ -23,3 +23,5 @@ yara-python==3.5.0
 elasticsearch==2.4.0
 peepdf==0.3.2
 pycparser==2.14
+
+pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
